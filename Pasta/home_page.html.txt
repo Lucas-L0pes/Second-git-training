@@ -1,5 +1,6 @@
 <html> 
-
+	<head>
     <title> Exercicio </title>
             <h1> Conteudo do arquivo </h1>
+	</head>
 </html>
